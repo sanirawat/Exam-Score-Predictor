@@ -31,4 +31,6 @@ Python, Pandas, NumPy, Scikit-learn, Streamlit
 
 ## Project Image
 
-![alt text](<Screenshot (97).png>)
+<img width="1920" height="859" alt="Screenshot (97)" src="https://github.com/user-attachments/assets/9af11002-4712-4de5-9b82-5ff9f5523a42" />
+
+
