@@ -2,11 +2,11 @@
 This project predicts a student’s exam score using Linear Regression, focusing on learning core Machine Learning concepts through practical implementation.
 
 ## Approach
--Performed basic data analysis and feature selection
--Trained a Multiple Linear Regression model
--Evaluated performance using MSE and R² Score
--Saved the trained model using pickle
--Built an interactive Streamlit app for user input and predictio
+- Performed basic data analysis and feature selection
+- Trained a Multiple Linear Regression model
+- Evaluated performance using MSE and R² Score
+- Saved the trained model using pickle
+- Built an interactive Streamlit app for user input and predictio
 
 ## Features Used
 - Hours studied
