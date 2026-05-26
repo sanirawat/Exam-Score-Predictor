@@ -24,10 +24,10 @@ A simple Streamlit web app allows users to enter inputs and get real-time exam s
 Python, Pandas, NumPy, Scikit-learn, Streamlit
 
 ## Key Learnings
--Linear Regression fundamentals
--Loss (MSE) and R² interpretation
--Feature addition and model improvement
--Deploying ML models using Streamlit
+- Linear Regression fundamentals
+- Loss (MSE) and R² interpretation
+- Feature addition and model improvement
+- Deploying ML models using Streamlit
 
 ## Project Image
 
